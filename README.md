@@ -1,10 +1,5 @@
 # 一夜三连发，Claude Opus 5.5、GPT-6 Sol和Luna全部都来了。
 
-> 来源：数字生命卡兹克  
-> 原文：https://mp.weixin.qq.com/s/EhyeRMFUv1KekZhzVyRm7g  
-> 发布时间：2026-09-23 06:37（Asia/Shanghai）  
-> 配图已转存图床；右下角水印已打码（如有）。
-
 ## 国内可用渠道与访问方式汇总
 
 为方便国内开发者与创作者快速体验，以下整理了目前可直接访问的 API 平台、镜像站、充值渠道与包月套餐：
